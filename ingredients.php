@@ -1,4 +1,8 @@
-<?php include 'inc/header.inc.php'; ?>
+<?php
+$pageTitle = 'Our ingredients';
+$headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
+include 'inc/header.inc.php'; ?>
+
     <h1>Our ingredients</h1>
     <p>
       At Culinary Cove, our ethos is deeply rooted in the belief that
@@ -12,8 +16,8 @@
       wholesome nutrition that characterize each dish on our menu.
     </p>
     <figure style="text-align: center;">
-      <img style="max-width: 20rem;" 
-           src="images/pexels-lisa-fotios-1126728.jpg" 
+      <img style="max-width: 20rem;"
+           src="images/pexels-lisa-fotios-1126728.jpg"
            alt="Our amazing restaurant" />
       <figcaption>Our amazing restaurant</figcaption>
     </figure>
