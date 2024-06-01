@@ -1,9 +1,8 @@
 <!-- Should be turned into a header image -->
 <?php
-$pageTitle = 'Our ingredients';
+$pageTitle = 'Our menu';
 $headerImg = 'images/pexels-fwstudio-172289.jpg';
 include 'inc/header.inc.php'; ?>
-<img src="" />
 
 <h1>Our menu</h1>
 
